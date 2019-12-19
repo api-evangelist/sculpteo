@@ -1,0 +1,56 @@
+{
+    "name": "Sculpteo",
+    "description": "Sculpteo offers everyone rapid online 3D printing services. Get your parts in a few days thanks to our professional 3D printers!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1748-sculpteo.jpg",
+    "tags": [
+        "3d printing",
+        "have api",
+        "local"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sculpteo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sculpteo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1748-sculpteo.jpg",
+            "humanURL": "http:\/\/www.sculpteo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.sculpteo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.sculpteo.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sculpteo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sculpteo"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.sculpteo.com\/en\/developer\/webapi\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sculpteo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sculpteo.com"
+        }
+    ]
+}
